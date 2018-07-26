@@ -61,5 +61,7 @@ func main() {
 
 ```
 
+输出结果：
 
+![image](https://github.com/timest/go-pprint/blob/master/desc.jpg)
 
